@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "My Chrome Extension",
+  "version": "1.0",
+  "description": "An example extension with two buttons.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_popup_size": {
+      "width": 400,
+      "height": 300
+    }
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ]
+}

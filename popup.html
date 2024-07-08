@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>My Chrome Extension</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yekan-font@1.0.0/css/yekan-font.min.css">
+  <style>
+    body {
+      font-family: yekan;
+      direction: rtl;
+      width: 400px;
+      height: auto;
+      overflow: hidden;
+      margin: 0;
+      padding: 10px;
+      box-sizing: border-box;
+    }
+
+    #output {
+      width: 100%;
+      height: 100px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <h4> خروجی گرفتن از پورت های x-ui </h4>
+  <hr>
+  <textarea id="output" readonly  class="form-control"></textarea>
+  <hr>
+  <button id="execute-code" class="btn btn-success">اجرای کد</button>
+  <button id="copy-output" class="btn btn-secondary">کپی</button>
+  <hr>
+  <h6>توسعه : <a href="https://github.com/dev-ir" target="_blank" rel="noopener noreferrer">dev-ir</a></h6>
+  <script src="popup.js"></script>
+</body>
+
+</html>
