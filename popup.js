@@ -19,7 +19,7 @@ document.getElementById('copy-output').addEventListener('click', function() {
 });
 
 function extractTableData() {
-  let rows = document.querySelectorAll('#content-layout > main > div > div > div:nth-child(3) > div.ant-card-body > div.ant-table-wrapper > div > div > div > div > div > div > table > tbody > tr');
+  let rows = document.querySelectorAll('#content-layout > main > div > div > div:last-child > div.ant-card-body > div.ant-table-wrapper > div > div > div > div > div > div > table > tbody > tr');
 
   let values = [];
 
