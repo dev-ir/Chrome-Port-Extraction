@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "My Chrome Extension",
+  "name": "Chrome Port Extraction",
   "version": "1.0",
-  "description": "An example extension with two buttons.",
+  "description": "Chrome Port Extraction from Web",
   "action": {
     "default_popup": "popup.html",
     "default_popup_size": {
