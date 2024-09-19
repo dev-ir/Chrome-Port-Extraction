@@ -46,6 +46,14 @@ If you encounter any issues or have suggestions for improvements, feel free to o
 ## License:
 This project is licensed under the MIT License.
 
+
+## 🙏 Support with Crypto 
+- USDT (TRC20): `TVUqVMoCEe5DVUoxmPg8MwmgcHvZLqLjr4`
+
+## 📧 Join Telegram Channel
+
+TG : https://t.me/+EpErnDsDPhw3ZThk
+
 ---
 
 Enjoy using the **XUI Ports Extractor Chrome Extension**!
