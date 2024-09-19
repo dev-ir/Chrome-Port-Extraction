@@ -2,6 +2,11 @@
 
 This Chrome extension allows users to extract all the port numbers from the XUI panel and copy them directly to a text area for easy use.
 
+## 🪚 Preview
+<p align="left">
+    <img width="100%" src="https://github.com/user-attachments/assets/b21281ae-6da3-4c15-b5be-7129e08e1e45" alt="Image">
+</p>
+
 ## Features:
 - Automatically extracts all port numbers from the XUI panel.
 - Displays the extracted port numbers in a `textarea`.
@@ -24,10 +29,9 @@ This Chrome extension allows users to extract all the port numbers from the XUI 
 ## How to Use:
 
 1. Click on the extension icon in your Chrome browser.
-2. Click the `Extract Ports` button.
+2. Click the `Run & Copy` button.
 3. The extension will retrieve all ports from the XUI panel and display them in a `textarea`.
 4. You can copy the ports to your clipboard by clicking the **Copy** button.
-
 
 ## Permissions:
 - `activeTab`: Allows the extension to access the currently active tab.
@@ -45,4 +49,3 @@ This project is licensed under the MIT License.
 ---
 
 Enjoy using the **XUI Ports Extractor Chrome Extension**!
-
